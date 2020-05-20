@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Masjid Bin Baaz`,
+    description: `The Official Website of Masjid Bin Baaz of South Philadelphia`,
+    author: `@admin`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
