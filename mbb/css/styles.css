@@ -6071,6 +6071,10 @@ a.close.disabled {
 }
 
 .bg-primary a {
+  color: black;
+}
+
+.bg-primary a:hover {
   color: gray;
 }
 
